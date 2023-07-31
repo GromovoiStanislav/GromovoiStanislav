@@ -24,4 +24,6 @@ I am a NodeJS/Python backend developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/download/303576/rabbitmq-logo.svg" title="rabbitmq" alt="rabbitmq" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="socketio" alt="socketio" width="40" height="40"/>&nbsp;
+  <img src="https://plugins.jetbrains.com/files/16889/364056/icon/pluginIcon.png" title="grpc" alt="grpc" width="40" height="40"/>&nbsp;
+  <img src="https://trpc.io/img/logo.svg" title="trpc" alt="trpc" width="40" height="40"/>&nbsp;
 </div>
