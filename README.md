@@ -30,6 +30,7 @@ I am a NodeJS/Python backend developer
   <img src="https://www.svgrepo.com/show/354210/prisma.svg" title="prisma" alt="prisma" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/30929568/119165576-42d60c80-ba7b-11eb-95ce-c61b12a97edf.png" title="typeorm" alt="typeorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 </div>
 
 ---
