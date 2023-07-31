@@ -2,6 +2,11 @@
 <br>
 I am a NodeJS/Python backend developer
 
+
+My name is Stanislav. I am a NodeJS/Python backend developer.
+
+I am deeply interested and actively working on improving my skills in the following technologies: Typescript, NodeJS, GraphQL.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
