@@ -1,6 +1,7 @@
-### :man_technologist: About Me: 
-<br>
+### :man_technologist: About Me and What I do: 
+
 My name is Stanislav. I am a NodeJS/Python backend developer.
+
 I am deeply interested and actively working on improving my skills in the following technologies: Typescript, NodeJS, GraphQL.
 
 ---
