@@ -1,4 +1,4 @@
-### :man_technologist: About Me and What I do: 
+### About Me and What I do: 
 
 My name is Stanislav. I am a NodeJS/Python backend developer.
 
@@ -6,7 +6,7 @@ I am deeply interested and actively working on improving my skills in the follow
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
